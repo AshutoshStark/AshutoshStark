@@ -1,7 +1,14 @@
-![image](https://github.com/user-attachments/assets/91c5ba84-317c-442a-8937-be0cb4e076ab)
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/ravindra-singh-budgurjar-382914191"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=badrat-in&style=flat-square&color=blue" alt=""></p>
 
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-# 💫 About Me:
+<p align="center"><img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="500" height="300"  /></p>
+
+### 👨‍💻 &nbsp;About Me :
 🔭 I’m currently working on Full Stack Project<br>🌱 I’m currently learning Advance Java<br>💬 Ask me about New Tech, Coding Language, Startups.<br>⚡ Fun fact Doing something different from others can sometimes lead you to higher levels of life<br>
 
 
